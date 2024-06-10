@@ -5,7 +5,7 @@ Este proyecto forma parte del prestigioso programa de formación Oracle Alura La
 ![folder_css_icon_161295](https://user-images.githubusercontent.com/54302061/210741219-605a4888-68d2-496a-ac24-ae9b5c849741.png)
 
 -----------
-Descripción del Proyecto
+## Descripción del Proyecto
 
 La página web de la Barbería Alura está diseñada para ofrecer una experiencia de usuario excepcional y cuenta con las siguientes características:
 
